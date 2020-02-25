@@ -1,0 +1,1 @@
+This project generates a chess board with eight queens and then uses a hillclimbing algorithm with random restarts in order to solve the 8 queen problem. 
