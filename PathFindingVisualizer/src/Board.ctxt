@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ @author\ Mason\ Herron\ Board.java\ creates\ a\ board\ (15x15\ tile\ based\r\n\ \ \ \ \ \ \ \ \ environment)\ and\ also\ has\ methods\ that\ print\ the\ board,\ calculate\ the\r\n\ \ \ \ \ \ \ \ \ path,\ set\ the\ f,\ g,\ and\ h\ values\ for\ each\ node,\ etc.\r\n\r\n
+comment1.params=percentageBlocked\ size
+comment1.target=Node[][]\ generateBoard(double,\ int)
+comment2.params=row\ column
+comment2.target=void\ setStartingPoint(int,\ int)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=row\ column
+comment4.target=void\ setEndingPoint(int,\ int)
+comment5.params=
+comment5.target=void\ printBoard()
+comment6.params=
+comment6.target=java.lang.String\ calculatepath()
+comment7.params=board\ currentNode\ endingNode
+comment7.target=void\ setValues(Node[][],\ Node,\ Node)
+comment8.params=min\ max
+comment8.target=double\ getRandom(double,\ double)
+numComments=9
